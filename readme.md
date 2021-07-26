@@ -70,4 +70,28 @@ It improves application performance by allowing us to retrieve information from 
 It is a fast, fully managed data warehousing service, which makes it cost-effective to analyze all data using the existing Business Intelligence tools.
 * `DMS (Data Migration Service):` 
 It helps in migrating databases to the cloud easily and securely. It can also be used for converting databases.
-
+# Analytics:-
+* `EMR:`
+Amazon Elastic MapReduce helps in performing big data tasks such as web indexing, data mining, and log file analysis.
+* `Data Pipeline:`
+It helps in moving data from one service to another. It is a service used for periodic, data-driven workflows.
+* `AWS Elasticsearch:`
+It is a managed service that helps in deploying, operating, and scaling Elasticsearch.
+* `Kinesis:`
+It makes it easy to work with real-time streaming data in the AWS cloud.
+* `AWS Machine Learning:`
+It is a service that enables us to easily build smart applications.
+* `AWS QuickSight:`
+It is a cloud-assisted Business Intelligence service that helps in deriving insights from data easily.
+# Security and Identity:-
+* `IAM:`
+It helps in configuring security for all the services. It is used to ensure that our other services remain safe and inaccessible to others.
+* `Directory Service:`
+It is used to provide a managed directory in the cloud.
+Inspector: It enables us to analyze the behavior of the applications we run on AWS and helps in identifying potential security issues.
+* `WAF (Web Application Firewall):`
+It protects our web application from attacks by providing web traffic filters.
+* `Cloud HSM:`
+It is a Hardware Security Module.
+* `KMS:`
+It is a Key Management Service.
