@@ -9,8 +9,14 @@ Cloud computing has 3 stages:
 * `Services model:-`
 ```
 There are three services models
-(1)-Iaas:-Infrastructure as a service is one of Amazon Web Services that focuses on providing infrastructure services based on cloud computing technology.IaaS Amazon Service is used to replace physical resources, such as servers, with virtual resources hosted and managed by Amazon.
-(2)-Paas:-
+(1)-Iaas:-(Infrastructure as a service) 
+It is one of Amazon Web Services that focuses on providing infrastructure services based on cloud computing technology.IaaS Amazon Service is used to replace physical resources, such as servers, with virtual resources hosted and managed by Amazon.
+(2)-Paas:-(Platform as a services)
+It is a cloud computing model where a third-party provider delivers hardware and software tools to users over the internet.
+EX-Google app engines.
+(3)-Saas(Software as a services):-
+It is a
+
 ```
 * `Deployment models:-`
 
