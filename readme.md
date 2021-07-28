@@ -15,7 +15,8 @@ It is one of Amazon Web Services that focuses on providing infrastructure servic
 It is a cloud computing model where a third-party provider delivers hardware and software tools to users over the internet.
 EX-Google app engines.
 (3)-Saas(Software as a services):-
-It is a
+It is a way of delivering applications over the Internet—as a service.
+Ex-Gmail
 
 ```
 * `Deployment models:-`
@@ -39,22 +40,23 @@ It is a service designed by EC2, which is used to launch or terminate EC2 instan
 * `Elastic Load Balancing:` It automatically distributes the incoming application traffic across multiple instances at multiple availability zones.
 
 # Computing Services:-
-* `EC2:` 
+* `EC2:-` 
 It is a virtual server that provides resizable compute capacity on the cloud.
-* `Lambda:`
+* `Lightsail:-`
+It is an easy-to-use virtual private server (VPS) that offers you everything needed to build an application or website, plus a cost-effective, monthly plan. Whether you're new to the cloud or looking to get on the cloud quickly with AWS infrastructure you trust, we've got you covered.
+* `Lambda:-`
 It is a computing service that runs the code in response to events and automatically manages the computing resources.
-* `Elastic Beanstalk:`
+* `Batch:-` 
+It is a set of batch management capabilities that enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS.
+* `Elastic Beanstalk:-`
 It is an application container used for deploying and managing containers. It creates an environment for working with web applications.
 # Comtainers:-
-* `EC2 Container service:`
-
-* `EC2 Container Service:`
+* `EC2 Container Service:-`
 It allows us to easily run and manage Docker containers across a cluster of EC2 instances.
-
 # Storage Services:-
 * `S3:`
 It refers to Simple Storage Service and allows the storage of data objects of any sort and flat files in the cloud. It is secure, scalable, and durable.
-* `EFS (Elastic File Storage):`
+* `EFS (Elastic File Storage):-`
 It is a file storage service used in EC2 instances and connects to multiple EC2 instances.
 * `FSx:`
 
