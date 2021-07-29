@@ -10,13 +10,14 @@ Cloud computing has 3 stages:
 ```
 There are three services models
 (1)-Iaas:-(Infrastructure as a service) 
-It is one of Amazon Web Services that focuses on providing infrastructure services based on cloud computing technology.IaaS Amazon Service is used to replace physical resources, such as servers, with virtual resources hosted and managed by Amazon.
+The cloud service provider,provides you the hardware resources like servers,Database,processors,RAM,vertual hosting etc. through cloud this is called IAAS.
+EX-AWS,Microsoft Azure.
 (2)-Paas:-(Platform as a services)
-It is a cloud computing model where a third-party provider delivers hardware and software tools to users over the internet.
-EX-Google app engines.
+Cloud provides you the platform where you can code,create applications and also deploy application,this type of service is called PAAS.
+EX-Google app engines,IBM Bluemix.
 (3)-Saas(Software as a services):-
-It is a way of delivering applications over the Internet—as a service.
-Ex-Gmail
+Cloud provides you the softwares,where you can use them from anywhere.This is called SAAS.
+Ex-Gmail,Google Drive
 
 ```
 * `Deployment models:-`
@@ -37,11 +38,12 @@ Types of AWS Services:-
 * `Auto-scaling:` 
 It is a service designed by EC2, which is used to launch or terminate EC2 instances based on user-defined policies.
 
-* `Elastic Load Balancing:` It automatically distributes the incoming application traffic across multiple instances at multiple availability zones.
+* `Elastic Load Balancing:` 
+Elastic load balancing is a load balancing service by AWS,which distributes incoming traffic across several targets,such as amazon EC2 instances,lambda functions,containers and ranges of IP addresses,in multiple availability zones.
 
 # Computing Services:-
 * `EC2:-` 
-It is a virtual server that provides resizable compute capacity on the cloud.
+Elastic compute cloud is a part of Amazon cloud-computing platform. AWS, that allows users to rent virtual computers on which to run their own computer application.
 * `Lightsail:-`
 It is an easy-to-use virtual private server (VPS) that offers you everything needed to build an application or website, plus a cost-effective, monthly plan. Whether you're new to the cloud or looking to get on the cloud quickly with AWS infrastructure you trust, we've got you covered.
 * `Lambda:-`
