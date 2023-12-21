@@ -61,6 +61,7 @@ It refers to Simple Storage Service and allows the storage of data objects of an
 * `EFS (Elastic File Storage):-`
 It is a file storage service used in EC2 instances and connects to multiple EC2 instances.
 * `FSx:`
+Amazon FSx for Windows File Server provides fully managed Microsoft Windows file servers, backed by a fully native Windows file system. FSx for Windows File Server has the features, performance, and compatibility to easily lift and shift enterprise applications to the AWS Cloud.
 
 * `S3 Glacier:`
 It is a low-cost storage service that provides secure and durable storage for long-term data archiving and backup.
